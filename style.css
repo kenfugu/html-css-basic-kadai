@@ -7,10 +7,11 @@ h1{
     font: Skyblue;
     /* ここにGoogle Fontsを指定します */
     font-family: 'Josefin Sans', sans-serif;
-    text-shadow: 1px 2px 3px gray;
-    text-decoration: underline rgb(115,115,114);
-    letter-spacing: 2.4em;
+    text-shadow: 1px 2px 3px gray; 
+    letter-spacing: 1.2em;
+    border-bottom: solid 3px rgb(115,115,114);
 }
+
 #basic p {
     font-weight: bold;
 }
